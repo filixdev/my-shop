@@ -24,7 +24,7 @@
         "./src/model/*"
       ],
       "@/shared/*": [
-        "./src/shared/*"
+        "src/shared/*"
       ],
       "@/services/*": [
         "./src/services/*"

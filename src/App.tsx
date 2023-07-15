@@ -1,5 +1,5 @@
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom"
-import { NavBar } from "./Shared"
+import { NavBar } from "./shared"
 import { CMSOrdersPage, CMSPage, CMSProductsPage, CartPage, CheckoutPage, LoginPage, ShopPage, ThanksPage } from "./pages"
 
 function App() {
